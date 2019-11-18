@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">CarLoan</string>
+    <string name="carpricetxt">Enter your car price</string>
+    <string name="downpaymenttxt">Enter downpayment value</string>
+    <string name="loanperiodtxt">Enter loan period (in years)</string>
+    <string name="interestratetext">Enter interest rate</string>
+    <string name="Calculate">Calculate</string>
+    <string name="carloanresult">Car Loan</string>
+    <string name="interestresult">Interest</string>
+    <string name="monthlyrepaymenttxt">Monthly Repayment</string>
+</resources>
